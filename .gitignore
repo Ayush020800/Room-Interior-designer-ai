@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# .gitignore
+.env
+.env.local
+.next
+node_modules/
+.DS_Store
+*.log
